@@ -1,4 +1,4 @@
-//Print number entered by the user. //
+//Addition of two numbers entered by the user. //
 
 #include<iostream>
 using namespace std;
